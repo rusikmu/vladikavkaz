@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    background-image: url();
+    background-repeat: no-repeat;
+  }
+  
+  header {
+    background-color: #462521;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    color: rgb(0, 0, 0);
+  }
+  
+  .coffeeshop-info {
+    margin: 2rem 0;
+  }
+  
+  .coffeeshop-info h2 {
+    color: #462521;
+  }
+  
+  .coffeeshop-info p {
+    line-height: 1.6;
+  }
+  

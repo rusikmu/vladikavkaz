@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #462521;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .coffee-info {
+    margin: 2rem 0;
+  }
+  
+  .coffee-info h2 {
+    color: #462521;
+  }
+  
+  .coffee-info p {
+    line-height: 1.6;
+  }
+  
+  footer {
+    background-color: #462521;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    bottom: 0;
+  
+  }
